@@ -25,7 +25,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - Full-stack web application to manage and track customer complaints  
 - Features: Submit complaints, admin dashboard, status updates, user-friendly interface  
 - Technologies: React, Node.js, Express, MongoDB/MySQL  
-- [GitHub Repo](https://github.com/azmeraw-dev/customer-complaint-tracker)
+- [GitHub Repo](https://azmeraw-dev.github.io/customer-complaint-tracker/)
 
 ### **C Programs**
 - Collection of simple C programs from ALX School exercises  
