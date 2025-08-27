@@ -43,11 +43,12 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - Personal website show casingng my skills and projects
 - Technologies: HTML, CSS, JavaScript  
 - [GitHub Repo](https://azmeraw-dev.github.io/my-modern-portfolio/)
-- 
-### **AI-Powered Customer Support & Complaint Management System
-(with Telebirr Integration)
-Ongoing project — working on the frontend
- 
+  
+### **AI-Powered Customer Support & Complaint Management System (with Telebirr Integration)
+ -Ongoing full-stack web application to manage customer complaints and support services
+-Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
+-Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
+ - [GitHub Repo](https://azmeraw-dev.github.io/ai-support-frontend/)
 
 
 
