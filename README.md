@@ -29,7 +29,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 
 ### **C Programs**
 - Collection of simple C programs from ALX School exercises  
-- Includes: `multilingual-puzzle.c`, `hello-world.c`  
+- Includes: `posetive_or_negative.c`, `hello-world.c`  
 - Skills Practiced: C programming basics, compiling with GCC, problem-solving  
 - [GitHub Repo](https://github.com/azmeraw-dev/c-programs)
 
