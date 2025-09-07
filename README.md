@@ -50,6 +50,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 -Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
  - [GitHub Repo](https://azmeraw-dev.github.io/ai-support-frontend/)
 
+![](https://komarev.com/ghpvc/?azmeraw-dev=azmeraw-dev)
 
 
 
