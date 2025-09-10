@@ -48,7 +48,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
  -Ongoing full-stack web application to manage customer complaints and support services
 -Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
 -Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
- - [GitHub Repo](https://azmeraw-dev.github.io/ai-support-frontend/)
+ - [GitHub Repo](https://ai-support-frontend.vercel.app/)
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fazmeraw-dev%2Fazmeraw-dev&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
 
