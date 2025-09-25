@@ -15,7 +15,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - **Backend:** Node.js 
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code, Bash scripting  
-- **Languages:** C, JavaScript  
+- **Languages:** C, JavaScript,Python(on progress as passionate about AI/ML) 
 
 ---
 
