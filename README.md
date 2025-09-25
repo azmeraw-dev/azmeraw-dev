@@ -40,7 +40,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - [GitHub Repo](https://github.com/azmeraw-dev/linux-practice)
 
 ### **Portfolio Website 
-- Personal website show casingng my skills and projects
+- Personal website show my skills and projects
 - Technologies: HTML, CSS, JavaScript  
 - [GitHub Repo](https://azmeraw-dev.github.io/my-modern-portfolio/)
   
