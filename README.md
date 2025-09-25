@@ -39,18 +39,18 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - Skills Practiced: Linux commands, Bash scripting, system automation  
 - [GitHub Repo](https://github.com/azmeraw-dev/linux-practice)
 
-### **Portfolio Website 
+### **Portfolio Website**
 - Personal website show my skills and projects
 - Technologies: HTML, CSS, JavaScript  
 - [GitHub Repo](https://azmeraw-dev.github.io/my-modern-portfolio/)
   
-### **AI-Powered Customer Support & Complaint Management System (with Telebirr Integration)
+### **AI-Powered Customer Support & Complaint Management System (with Telebirr Integration)**
 - Ongoing full-stack web application to manage customer complaints and support services
 - Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
 - Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
 - [GitHub Repo](https://ai-support-frontend.vercel.app/)
 
-### 📡 Ethio Telecom Fixed Service Management System
+### ** Ethio Telecom Fixed Service Management System**
 A **full-stack web application** designed to improve **fixed service delivery** for Ethio Telecom customers.  
 It connects **Customers, Technicians, and Sales Staff** on a single platform — making service requests faster, transparent, and efficient.  
  - **Tech Stack:** React.js, Node.js, Express, MongoDB  
