@@ -45,10 +45,10 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - [GitHub Repo](https://azmeraw-dev.github.io/my-modern-portfolio/)
   
 ### **AI-Powered Customer Support & Complaint Management System (with Telebirr Integration)
- -Ongoing full-stack web application to manage customer complaints and support services
--Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
--Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
- - [GitHub Repo](https://ai-support-frontend.vercel.app/)
+- Ongoing full-stack web application to manage customer complaints and support services
+- Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
+- Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
+- [GitHub Repo](https://ai-support-frontend.vercel.app/)
 
 ### 📡 Ethio Telecom Fixed Service Management System
 A **full-stack web application** designed to improve **fixed service delivery** for Ethio Telecom customers.  
