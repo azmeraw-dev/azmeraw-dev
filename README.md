@@ -50,7 +50,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
 - [GitHub Repo](https://ai-support-frontend.vercel.app/)
 
-### ** Ethio Telecom Fixed Service Management System**
+### **Ethio Telecom Fixed Service Management System**
 A **full-stack web application** designed to improve **fixed service delivery** for Ethio Telecom customers.  
 It connects **Customers, Technicians, and Sales Staff** on a single platform — making service requests faster, transparent, and efficient.  
  - **Tech Stack:** React.js, Node.js, Express, MongoDB  
