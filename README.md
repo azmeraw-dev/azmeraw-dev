@@ -52,7 +52,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 
 ### **Ethio Telecom Fixed Service Management System**
 A **full-stack web application**(in progress) designed to improve **fixed service delivery** for Ethio Telecom customers.  
-It connects **Customers, Technicians, and Sales Staff** on a single platform — making service requests faster, transparent, and efficient.  
+It connects **Customers, Technicians, and Sales Staff** on a single platform —reducing multiple office visits and making service requests faster, transparent, and efficient.  
  - **Tech Stack:** React.js, Node.js, Express, MongoDB  
 - **Features:** Service request form, real-time status tracking, Telebirr mock payment, AI chatbot (planned)  
 - **Live Demo:** [🌐 View Demo](https://fixed-service-app-frontend.vercel.app)  
