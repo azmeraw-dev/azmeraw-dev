@@ -19,13 +19,13 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 - Ongoing full-stack web application to manage customer complaints and support services
 - Features: AI-powered chatbot, complaint submission & tracking, admin dashboard, Telebirr payment support
 - Technologies: React, Tailwind CSS, Node.js, Express, MongoDB/MySQL
-- [GitHub Repo](https://ai-support-frontend.vercel.app/)
+- [Live Demo](https://ai-support-frontend.vercel.app/)
 
 ### 2. **Customer Complaint Tracker**
 - Full-stack web application to manage and track customer complaints  
 - Features: Submit complaints, admin dashboard, status updates, user-friendly interface  
 - Technologies: React, Node.js, Express, MongoDB/MySQL  
-- [GitHub Repo](https://azmeraw-dev.github.io/customer-complaint-tracker/)
+- [Live Demo](https://azmeraw-dev.github.io/customer-complaint-tracker/)
 
 
 ### 3. **Ethio Telecom Fixed Service Management System**
@@ -33,12 +33,12 @@ A **full-stack web application**(in progress) designed to improve **fixed servic
 It connects **Customers, Technicians, and Sales Staff** on a single platform —reducing multiple office visits and making service requests faster, transparent, and efficient.  
  - **Tech Stack:** React.js, Node.js, Express, MongoDB  
 - **Features:** Service request form, real-time status tracking, Telebirr mock payment, AI chatbot (planned)  
-- **Live Demo:** [🌐 View Demo](https://fixed-service-app-frontend.vercel.app)
+-  [Live Demo](https://fixed-service-app-frontend.vercel.app)
 
 ### 4. **Portfolio Website**
 - Personal website show my skills and projects
 - Technologies: HTML, CSS, JavaScript  
-- [GitHub Repo](https://azmeraw-dev.github.io/my-modern-portfolio/)
+- [Live Demo](https://azmeraw-dev.github.io/my-modern-portfolio/)
 
   ---
 
