@@ -10,13 +10,21 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 
 ---
 
-## 💻 Skills
+## 💻 Skills $ Technologies
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js 
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, GitHub, Linux, VS Code, Bash scripting  
-- **Languages:** C, JavaScript, Python(on progress as passionate about AI/ML) 
+- **Languages:** C, JavaScript, Python(on progress as passionate about AI/ML)
+- **AI & Advanced Features:**  OpenAI API, Chatbots, NLP integration  
 
+---
+
+## 🎯 Goals
+- Become a **proficient full-stack developer**  
+- Build **AI-powered solutions** for telecom and customer support  
+- Contribute to **innovative projects at Ethio Telecom**
+  
 ---
 
 ## 🛠 Projects
@@ -55,7 +63,11 @@ A **full-stack web application**(in progress) designed to improve **fixed servic
 It connects **Customers, Technicians, and Sales Staff** on a single platform —reducing multiple office visits and making service requests faster, transparent, and efficient.  
  - **Tech Stack:** React.js, Node.js, Express, MongoDB  
 - **Features:** Service request form, real-time status tracking, Telebirr mock payment, AI chatbot (planned)  
-- **Live Demo:** [🌐 View Demo](https://fixed-service-app-frontend.vercel.app)  
+- **Live Demo:** [🌐 View Demo](https://fixed-service-app-frontend.vercel.app)
+
+  ---
+
+  *"Learning by building, improving every day, and aligning tech solutions with real-world telecom needs."*
 
 ![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fazmeraw-dev%2Fazmeraw-dev&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
 
