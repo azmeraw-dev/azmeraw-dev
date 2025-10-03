@@ -4,12 +4,6 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 
 ---
 
-## 📫 Connect with me
-- **LinkedIn:** [Azmeraw Bitew](https://www.linkedin.com/in/azmeraw-bitew-6315b9253)
-- **GitHub:** [https://github.com/azmeraw-dev](https://github.com/azmeraw-dev)
-
----
-
 ## 💻 Skills $ Technologies
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js 
@@ -66,6 +60,12 @@ It connects **Customers, Technicians, and Sales Staff** on a single platform —
 - **Live Demo:** [🌐 View Demo](https://fixed-service-app-frontend.vercel.app)
 
   ---
+
+  ## 📫 Connect with me
+- **LinkedIn:** [Azmeraw Bitew](https://www.linkedin.com/in/azmeraw-bitew-6315b9253)
+- **GitHub:** [https://github.com/azmeraw-dev](https://github.com/azmeraw-dev)
+
+---
 
   *"Learning by building, improving every day, and aligning tech solutions with real-world telecom needs."*
 
