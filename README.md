@@ -4,7 +4,7 @@ Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Nod
 
 ---
 
-## 💻 Skills $ Technologies
+## 💻 Skills & Technologies
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js 
 - **Databases:** MySQL, MongoDB  
