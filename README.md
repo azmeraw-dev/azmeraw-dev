@@ -59,7 +59,7 @@ It connects **Customers, Technicians, and Sales Staff** on a single platform —
 
   *"Learning by building, improving every day, and aligning tech solutions with real-world telecom needs."*
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fazmeraw-dev%2Fazmeraw-dev&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fazmeraw-dev%2Fazmeraw-dev&leftColor=000000&rightColor=0adb3f&type=total&label=Viewers&style=none)
 
 
 
