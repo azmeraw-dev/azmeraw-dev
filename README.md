@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Azmeraw Bitew
 
-Communication Engineer | IT Technical Support Advisor | Access Network & Fiber Network Professional | CCNA Learner | Linux & Windows Administration Enthusiast
+Communication Engineer | IT Technical Support Advisor | CCNA Learner | Linux & Windows Administration Enthusiast
 
 ---
 
