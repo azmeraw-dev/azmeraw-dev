@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Azmeraw Bitew
 
-Aspiring Software Developer | Web Development (HTML, CSS, JavaScript, React, Node.js) | Passionate about AI, Telecom Solutions, and Full-Stack Development
+Communication Engineer | IT Technical Support Advisor | Access Network & Fiber Network Professional | CCNA Learner | Linux & Windows Administration Enthusiast
 
 ---
 
