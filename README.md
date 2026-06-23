@@ -1,16 +1,20 @@
-# Hi there 👋, I'm Azmeraw Bitew
+Hi, I'm Azmeraw Bitew.
 
-Communication Engineer | IT Technical Support Advisor | CCNA Learner | Linux & Windows Administration Enthusiast
+I am a Communication Engineer with experience in telecommunications, fixed access networks, and IT technical support.
 
----
+My professional background includes supporting customers, troubleshooting technical issues, maintaining network services, and working with fixed network technologies such as FTTH, GPON, OLT, and ONT systems.
 
-## 💻 Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js 
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** Git, GitHub, Linux, VS Code, Bash scripting  
-- **Languages:** C, JavaScript, Python(on progress as passionate about AI/ML)
-- **AI & Advanced Features:**  OpenAI API, Chatbots, NLP integration  
+Currently, I am expanding my skills in:
+• CCNA Networking
+• IT Support
+• Windows Administration
+• Linux Administration
+• Network Troubleshooting
+• Cybersecurity Fundamentals
+
+I use GitHub to document my learning journey, share technical notes, networking labs, troubleshooting guides, and projects related to telecom and IT support.
+
+My goal is to build reliable technology solutions while growing as a networking and systems professional.
 
 ---
 ## 💻 Featured Projects
